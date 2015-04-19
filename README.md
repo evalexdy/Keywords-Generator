@@ -1,5 +1,5 @@
 # Keywords-Generator
-Analize text and generate keywords from it (including word forms)
+Analyze text and generate keywords from it (including word forms)
 
 Long time ago I've made some script which analize text and generate meta tag "keyword".
 
