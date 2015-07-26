@@ -79,7 +79,7 @@ addToLog('  '+finalArray[key].string.join());
 		}
 		
 	}
-	keywords=keywords.replace(/,+$/, ''); //Убрать ненужные запятые справа
+	keywords=keywords.replace(/,+$/, ''); //Remove unnecessary commas from right side
 var stop = Date.now();
 addToLog('Working time: '+(stop-start)+'ms');
 	
